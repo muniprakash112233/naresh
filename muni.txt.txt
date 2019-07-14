@@ -2,3 +2,9 @@ hello mini,
 
 We done CD
 We are doing CI
+
+
+Now everything automated. I am developer
+i am saving this file
+Automatically build will appear
+i can able to see in webapge directly after 1 minute
